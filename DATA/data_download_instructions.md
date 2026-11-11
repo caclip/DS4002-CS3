@@ -7,7 +7,7 @@ Follow these steps to obtain the **Real Estate Transfers** dataset required for 
 
 2. **Download the File:**
    Locate and click on **Real Estate Transfers - All Years (CSV)**.
-   ![Download Data Link](downlaodData.png)
+   ![Download Data Link](download_data.png)
 
 3. **Rename and Save:**
    * Rename the downloaded file to **`rtt_summary.csv`**.
